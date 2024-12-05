@@ -1,4 +1,4 @@
-module github.com/digitalocean/gta
+module github.com/arkhamintelligence/gta
 
 go 1.21
 
